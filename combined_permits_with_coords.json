@@ -1,6 +1,6 @@
 [
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"JACKSON COUNTY",
     "Location Information 1":"2112 PARK VIEW COVE",
     "Location Information 2":"LOT 14",
@@ -33,12 +33,12 @@
     "Expr1":2036,
     "Print Seq":"A",
     "address":"2112 PARK VIEW COVE LOT 14 PARK VIEW EST BILOXI  39532",
-    "phone":"228.0-215-0469",
+    "phone":"228-215-0469",
     "lat":30.39603,
     "lng":-88.88531
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"JACKSON COUNTY",
     "Location Information 1":"16633 OLD KELLY RD",
     "Location Information 2":"VANCLEAVE  39565",
@@ -71,12 +71,12 @@
     "Expr1":2036,
     "Print Seq":"A",
     "address":"16633 OLD KELLY RD VANCLEAVE  39565",
-    "phone":"nan-nan",
+    "phone":"N\/A",
     "lat":30.5474,
     "lng":-88.7086
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"JACKSON COUNTY",
     "Location Information 1":"15025 JIM RAMSAY RD",
     "Location Information 2":"VANCLEAVE  39565",
@@ -109,12 +109,12 @@
     "Expr1":2036,
     "Print Seq":"A",
     "address":"15025 JIM RAMSAY RD VANCLEAVE  39565",
-    "phone":"nan-nan",
+    "phone":"N\/A",
     "lat":30.5474,
     "lng":-88.7086
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"JACKSON COUNTY",
     "Location Information 1":"16613 SIERRA LN",
     "Location Information 2":"LOT 39",
@@ -147,12 +147,12 @@
     "Expr1":2036,
     "Print Seq":"A",
     "address":"16613 SIERRA LN LOT 39 ROLLING HILS VANCLEAVE  39565",
-    "phone":"228.0-826-0508",
+    "phone":"228-826-0508",
     "lat":30.5474,
     "lng":-88.7086
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"JACKSON COUNTY",
     "Location Information 1":"22521 OLD BILOXI RD",
     "Location Information 2":"LOT B",
@@ -185,12 +185,12 @@
     "Expr1":2036,
     "Print Seq":"A",
     "address":"22521 OLD BILOXI RD LOT B BILOXI HILLS VANCLEAVE  39565",
-    "phone":"nan-nan",
+    "phone":"N\/A",
     "lat":30.5474,
     "lng":-88.7086
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"PASCAGOULA",
     "Location Information 1":"1304 ROSWELL ST",
     "Location Information 2":"39581",
@@ -223,12 +223,12 @@
     "Expr1":2036,
     "Print Seq":"C",
     "address":"1304 ROSWELL ST 39581",
-    "phone":"228.0-355-1062",
+    "phone":"228-355-1062",
     "lat":30.3503161,
     "lng":-88.5188172
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"OCEAN SPRINGS",
     "Location Information 1":"124 SEA SALT LN",
     "Location Information 2":"39564",
@@ -261,12 +261,12 @@
     "Expr1":2036,
     "Print Seq":"E",
     "address":"124 SEA SALT LN 39564",
-    "phone":"228.0-348-7800",
+    "phone":"228-348-7800",
     "lat":30.3971532,
     "lng":-88.8067917
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"OCEAN SPRINGS",
     "Location Information 1":"103 PITTMAN RD",
     "Location Information 2":"39564",
@@ -299,12 +299,12 @@
     "Expr1":2036,
     "Print Seq":"E",
     "address":"103 PITTMAN RD 39564",
-    "phone":"nan-nan",
+    "phone":"N\/A",
     "lat":30.3959219,
     "lng":-88.7711614
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"OCEAN SPRINGS",
     "Location Information 1":"15 OAKLAWN DR",
     "Location Information 2":"39564",
@@ -337,12 +337,12 @@
     "Expr1":2036,
     "Print Seq":"E",
     "address":"15 OAKLAWN DR 39564",
-    "phone":"228.0-669-4720",
+    "phone":"228-669-4720",
     "lat":30.400634,
     "lng":-88.7989187
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"OCEAN SPRINGS",
     "Location Information 1":"513 HEATHERTONE CIR",
     "Location Information 2":"39564",
@@ -375,12 +375,12 @@
     "Expr1":2036,
     "Print Seq":"E",
     "address":"513 HEATHERTONE CIR 39564",
-    "phone":"nan-nan",
+    "phone":"N\/A",
     "lat":30.4404,
     "lng":-88.7801
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"OCEAN SPRINGS",
     "Location Information 1":"115 SUNHAVEN DR",
     "Location Information 2":"39564",
@@ -413,12 +413,12 @@
     "Expr1":2036,
     "Print Seq":"E",
     "address":"115 SUNHAVEN DR 39564",
-    "phone":"nan-nan",
+    "phone":"N\/A",
     "lat":30.4115382,
     "lng":-88.8077921
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"OCEAN SPRINGS",
     "Location Information 1":"5605 VIA TOSCAN",
     "Location Information 2":"39564",
@@ -451,12 +451,12 @@
     "Expr1":2036,
     "Print Seq":"E",
     "address":"5605 VIA TOSCAN 39564",
-    "phone":"601.0-201-0188",
+    "phone":"601-201-0188",
     "lat":30.4404,
     "lng":-88.7801
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"OCEAN SPRINGS",
     "Location Information 1":"231 WOODLAND CIR",
     "Location Information 2":"39564",
@@ -489,12 +489,12 @@
     "Expr1":2036,
     "Print Seq":"E",
     "address":"231 WOODLAND CIR 39564",
-    "phone":"nan-nan",
+    "phone":"N\/A",
     "lat":30.406888,
     "lng":-88.8031117
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"OCEAN SPRINGS",
     "Location Information 1":"4 - ON ANNIE COVE,",
     "Location Information 2":"3 - ON OLIVIA COVE,",
@@ -527,12 +527,12 @@
     "Expr1":2036,
     "Print Seq":"E",
     "address":"4 - ON ANNIE COVE, 3 - ON OLIVIA COVE, 3 - ON JENNIFER COVE 39564",
-    "phone":"210.0-216-0512",
+    "phone":"210-216-0512",
     "lat":29.82744,
     "lng":-94.80242
   },
   {
-    "Area Description":"JACKSON COUNTY",
+    "county":"JACKSON COUNTY",
     "Location Description":"JKN CO COMMERCIAL",
     "Location Information 1":"9005 OLD SPANISH TRAIL",
     "Location Information 2":"OCEAN SPRINGS  39564",
@@ -565,7 +565,7 @@
     "Expr1":2036,
     "Print Seq":"F",
     "address":"9005 OLD SPANISH TRAIL OCEAN SPRINGS  39564",
-    "phone":"228.0-547-4610",
+    "phone":"228-547-4610",
     "lat":30.396877,
     "lng":-88.7618919
   }
