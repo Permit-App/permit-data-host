@@ -13,6 +13,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70118,
     "Contractor Phone": "504-899-4130",
+    "Type": "AXR- / CARPORT/ / STORAGE",
     "Latitude": 29.9804328,
     "Longitude": -90.1318611
   },
@@ -30,6 +31,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70123,
     "Contractor Phone": "504-737-6307",
+    "Type": "RENOV XR",
     "Latitude": 29.9471401,
     "Longitude": -90.2150484
   },
@@ -47,6 +49,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70065,
     "Contractor Phone": "504-417-5305",
+    "Type": "RENOV XR",
     "Latitude": 30.0073334,
     "Longitude": -90.1294656
   },
@@ -64,6 +67,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70033,
     "Contractor Phone": "504-416-4680",
+    "Type": "RENOV XR",
     "Latitude": 29.9867975,
     "Longitude": -90.186686
   },
@@ -81,6 +85,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70005,
     "Contractor Phone": "504-457-0365",
+    "Type": "AXR- / SHED",
     "Latitude": 29.993,
     "Longitude": -90.164844
   },
@@ -98,6 +103,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70124,
     "Contractor Phone": "504-914-1151",
+    "Type": "SF",
     "Latitude": 29.965243,
     "Longitude": -90.1480297
   },
@@ -115,6 +121,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70055,
     "Contractor Phone": "504-416-3534",
+    "Type": "FDR",
     "Latitude": 29.9888008,
     "Longitude": -90.1400917
   },
@@ -132,6 +139,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70115,
     "Contractor Phone": "504-881-3028",
+    "Type": "RENOV XR",
     "Latitude": 29.9768902,
     "Longitude": -90.1405117
   },
@@ -149,6 +157,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70117,
     "Contractor Phone": "504-906-2334",
+    "Type": "RENOV XR",
     "Latitude": 29.9824118,
     "Longitude": -90.214968
   },
@@ -166,6 +175,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70072,
     "Contractor Phone": "504-715-9902",
+    "Type": "RENOV XR",
     "Latitude": 29.859375,
     "Longitude": -90.075076
   },
@@ -183,6 +193,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70062,
     "Contractor Phone": "504-468-9494",
+    "Type": "AXR- / OFFICE",
     "Latitude": 29.9660022,
     "Longitude": -90.2159647
   },
@@ -200,6 +211,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70047,
     "Contractor Phone": "504-416-8780",
+    "Type": "RENOV XR",
     "Latitude": 29.9661656,
     "Longitude": -90.1692222
   },
@@ -217,6 +229,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70002,
     "Contractor Phone": "504-885-0900",
+    "Type": "SF",
     "Latitude": 30.0101445,
     "Longitude": -90.1449301
   },
@@ -234,6 +247,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70068,
     "Contractor Phone": "504-235-8360",
+    "Type": "SF",
     "Latitude": 29.9722436,
     "Longitude": -90.2309169
   },
@@ -251,6 +265,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70002,
     "Contractor Phone": "225-202-1584",
+    "Type": "AXR- / SHED",
     "Latitude": 30.011631,
     "Longitude": -90.133114
   },
@@ -268,6 +283,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70065,
     "Contractor Phone": "504-467-8963",
+    "Type": "RENOV XR",
     "Latitude": 30.0076407,
     "Longitude": -90.1396762
   },
@@ -285,6 +301,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70062,
     "Contractor Phone": "504-466-3390",
+    "Type": "RENOV XR",
     "Latitude": 29.9972334,
     "Longitude": -90.2246517
   },
@@ -302,6 +319,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70072,
     "Contractor Phone": "504-348-4998",
+    "Type": "RENOV XR",
     "Latitude": 29.9839143,
     "Longitude": -90.1400865
   },
@@ -319,6 +337,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70037,
     "Contractor Phone": "504-393-2445",
+    "Type": "RENOV XR",
     "Latitude": 29.9444811,
     "Longitude": -90.1799981
   },
@@ -336,6 +355,7 @@
     "Contractor Master_State": "CO",
     "Contractor Master_Zip Code": 80210,
     "Contractor Phone": "303-474-5524",
+    "Type": "AXR- / SHED",
     "Latitude": 29.9871865,
     "Longitude": -90.189139
   },
@@ -353,6 +373,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70125,
     "Contractor Phone": "504-821-1038",
+    "Type": "RENOV XR",
     "Latitude": 30.012054,
     "Longitude": -90.2049098
   },
@@ -370,6 +391,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70068,
     "Contractor Phone": "504-401-5898",
+    "Type": "SF",
     "Latitude": 29.8951236,
     "Longitude": -90.0717948
   },
@@ -387,6 +409,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39531,
     "Contractor Phone": "228-547-7170",
+    "Type": "SF",
     "Latitude": 29.861076,
     "Longitude": -90.096239
   },
@@ -404,6 +427,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70068,
     "Contractor Phone": "504-235-8360",
+    "Type": "SF",
     "Latitude": 29.8570607,
     "Longitude": -90.0747513
   },
@@ -421,6 +445,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70726,
     "Contractor Phone": "225-678-8613",
+    "Type": "SF",
     "Latitude": 29.9138672,
     "Longitude": -90.0263124
   },
@@ -438,6 +463,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70354,
     "Contractor Phone": "225-247-8834",
+    "Type": "SF",
     "Latitude": 29.8680924,
     "Longitude": -90.1153439
   },
@@ -455,6 +481,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70131,
     "Contractor Phone": "504-473-6878",
+    "Type": "RENOV XR",
     "Latitude": 29.878356,
     "Longitude": -90.128812
   },
@@ -472,6 +499,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / SHED",
     "Latitude": 29.8614991,
     "Longitude": -90.1073955
   },
@@ -489,6 +517,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70070,
     "Contractor Phone": "985-785-7121",
+    "Type": "SDR",
     "Latitude": 29.950827,
     "Longitude": -90.2358712
   },
@@ -506,6 +535,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 29.912983,
     "Longitude": -90.203687
   },
@@ -523,6 +553,7 @@
     "Contractor Master_State": "N/A",
     "Contractor Master_Zip Code": "N/A",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 31.00129,
     "Longitude": -89.45229
   },
@@ -540,6 +571,7 @@
     "Contractor Master_State": "N/A",
     "Contractor Master_Zip Code": "N/A",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 31.261428,
     "Longitude": -89.505644
   },
@@ -557,6 +589,7 @@
     "Contractor Master_State": "N/A",
     "Contractor Master_Zip Code": "N/A",
     "Contractor Phone": "-",
+    "Type": "COMMERCIAL",
     "Latitude": 31.142903,
     "Longitude": -89.4113605
   },
@@ -574,6 +607,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39482,
     "Contractor Phone": "601-270-1434",
+    "Type": "2 - SFS",
     "Latitude": 31.353913,
     "Longitude": -89.573472
   },
@@ -591,6 +625,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39482,
     "Contractor Phone": "601-550-2917",
+    "Type": "SF",
     "Latitude": 31.41739,
     "Longitude": -89.54229
   },
@@ -608,6 +643,7 @@
     "Contractor Master_State": "N/A",
     "Contractor Master_Zip Code": "N/A",
     "Contractor Phone": "-",
+    "Type": "SF CAMP",
     "Latitude": 30.573827,
     "Longitude": -89.806095
   },
@@ -625,6 +661,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39426,
     "Contractor Phone": "409-682-0696",
+    "Type": "SF",
     "Latitude": 30.739728,
     "Longitude": -89.54439
   },
@@ -642,6 +679,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "METAL SHOP",
     "Latitude": 30.508891,
     "Longitude": -89.543841
   },
@@ -659,6 +697,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "METAL BLDG",
     "Latitude": 30.475071,
     "Longitude": -89.352692
   },
@@ -676,6 +715,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39571,
     "Contractor Phone": "228-669-7311",
+    "Type": "SF",
     "Latitude": 30.578377,
     "Longitude": -89.12257
   },
@@ -693,6 +733,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.3943999,
     "Longitude": -89.0701158
   },
@@ -710,6 +751,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.410619,
     "Longitude": -89.04254
   },
@@ -727,6 +769,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.467067,
     "Longitude": -89.151485
   },
@@ -744,6 +787,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.497311,
     "Longitude": -89.161332
   },
@@ -761,6 +805,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39531,
     "Contractor Phone": "228-669-4720",
+    "Type": "SF",
     "Latitude": 30.505106,
     "Longitude": -89.079983
   },
@@ -778,6 +823,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.266194,
     "Longitude": -89.44833
   },
@@ -795,6 +841,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "GARAGE",
     "Latitude": 30.508466,
     "Longitude": -89.149941
   },
@@ -812,6 +859,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39564,
     "Contractor Phone": "228-215-0469",
+    "Type": "2 STY SF",
     "Latitude": 30.517159,
     "Longitude": -89.224665
   },
@@ -829,6 +877,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39503,
     "Contractor Phone": "228-518-0260",
+    "Type": "AXR - BATH, / BEDROOM, / CLOSET",
     "Latitude": 30.463909,
     "Longitude": -89.1205072
   },
@@ -846,6 +895,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39506,
     "Contractor Phone": "228-861-3279",
+    "Type": "SF",
     "Latitude": 30.44003,
     "Longitude": -89.134721
   },
@@ -863,6 +913,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.501718,
     "Longitude": -89.146839
   },
@@ -880,6 +931,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.456762,
     "Longitude": -89.144296
   },
@@ -897,6 +949,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39532,
     "Contractor Phone": "228-382-7843",
+    "Type": "SF & / GARAGE",
     "Latitude": 30.587492,
     "Longitude": -88.479388
   },
@@ -914,6 +967,7 @@
     "Contractor Master_State": "FL",
     "Contractor Master_Zip Code": 32502,
     "Contractor Phone": "850-392-0336",
+    "Type": "2 - SFS",
     "Latitude": 30.465217,
     "Longitude": -89.16621
   },
@@ -931,6 +985,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.266194,
     "Longitude": -89.44833
   },
@@ -948,6 +1003,7 @@
     "Contractor Master_State": "FL",
     "Contractor Master_Zip Code": 32502,
     "Contractor Phone": "850-392-0336",
+    "Type": "SF",
     "Latitude": 30.539676,
     "Longitude": -89.250382
   },
@@ -965,6 +1021,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR- / SHTRK, FLRS, / DOORS",
     "Latitude": 30.4014565,
     "Longitude": -88.9392282
   },
@@ -982,6 +1039,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.3965884,
     "Longitude": -88.926783
   },
@@ -999,6 +1057,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39452,
     "Contractor Phone": "251-367-5816",
+    "Type": "RENOV XR- / TERMITE / DAMAGE",
     "Latitude": 30.445923,
     "Longitude": -88.9504863
   },
@@ -1016,6 +1075,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.45099,
     "Longitude": -88.951066
   },
@@ -1033,6 +1093,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": "39505-2246",
     "Contractor Phone": "228-669-3216",
+    "Type": "TF - BARBER / SHOP",
     "Latitude": 30.4020635,
     "Longitude": -88.974767
   },
@@ -1050,6 +1111,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70791,
     "Contractor Phone": "225-654-7072",
+    "Type": "STORAGE/ / WAREHOUSE",
     "Latitude": 30.3928659,
     "Longitude": -91.1134247
   },
@@ -1067,6 +1129,7 @@
     "Contractor Master_State": "OH",
     "Contractor Master_Zip Code": 44061,
     "Contractor Phone": "440-255-1515",
+    "Type": "TIRE SHOP",
     "Latitude": 30.4355014,
     "Longitude": -91.0071988
   },
@@ -1084,6 +1147,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70809,
     "Contractor Phone": "225-293-8650",
+    "Type": "OFFICE/ / WAREHOUSE",
     "Latitude": 30.399478,
     "Longitude": -91.058551
   },
@@ -1101,6 +1165,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70816,
     "Contractor Phone": "225-296-1557",
+    "Type": "TEN RENOV",
     "Latitude": 30.4485721,
     "Longitude": -91.0922304
   },
@@ -1118,6 +1183,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70805,
     "Contractor Phone": "225-357-9698",
+    "Type": "TEN RENOV- / OFFICES/ / BEHAVIORAL / HEALTH",
     "Latitude": 30.4355781,
     "Longitude": -91.0832968
   },
@@ -1135,6 +1201,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70898-0751",
     "Contractor Phone": "225-413-6096",
+    "Type": "TEN RENOV- / STE C",
     "Latitude": 30.4446962,
     "Longitude": -91.1733633
   },
@@ -1152,6 +1219,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70884-3778",
     "Contractor Phone": "504-931-0982",
+    "Type": "TEN RENOV",
     "Latitude": 30.41066,
     "Longitude": -91.146881
   },
@@ -1169,6 +1237,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70809,
     "Contractor Phone": "225-241-4789",
+    "Type": "TF- / CHEESECAKE / STORE/ STE B",
     "Latitude": 30.4251418,
     "Longitude": -91.1055269
   },
@@ -1186,6 +1255,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70809,
     "Contractor Phone": "225-927-7258",
+    "Type": "TEN RENOV- / 6TH FL/ / INFUSION / PHARMACY",
     "Latitude": 30.4040627,
     "Longitude": -91.1048798
   },
@@ -1203,6 +1273,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70884-2071",
     "Contractor Phone": "225-802-8889",
+    "Type": "SF",
     "Latitude": 30.4113326,
     "Longitude": -91.1373737
   },
@@ -1220,6 +1291,7 @@
     "Contractor Master_State": "NC",
     "Contractor Master_Zip Code": 28540,
     "Contractor Phone": "910-367-2647",
+    "Type": "RENOV XR",
     "Latitude": 30.5187117,
     "Longitude": -91.1402293
   },
@@ -1237,6 +1309,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-293-4545",
+    "Type": "SF",
     "Latitude": 30.355342,
     "Longitude": -91.072118
   },
@@ -1254,6 +1327,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.5123004,
     "Longitude": -91.1257399
   },
@@ -1271,6 +1345,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-769-8075",
+    "Type": "SF",
     "Latitude": 30.373042,
     "Longitude": -91.176156
   },
@@ -1288,6 +1363,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR / & AXR",
     "Latitude": 30.4278859,
     "Longitude": -91.1501675
   },
@@ -1305,6 +1381,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70065,
     "Contractor Phone": "504-473-5193",
+    "Type": "RENOV XR",
     "Latitude": 30.4601134,
     "Longitude": -91.0867675
   },
@@ -1322,6 +1399,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70094,
     "Contractor Phone": "225-678-4348",
+    "Type": "RENOV XR",
     "Latitude": 30.3672412,
     "Longitude": -90.9761906
   },
@@ -1339,6 +1417,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70809,
     "Contractor Phone": "225-293-8650",
+    "Type": "FOUNDATION / ONLY",
     "Latitude": 30.24959,
     "Longitude": -90.859844
   },
@@ -1356,6 +1435,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "4 - SFS",
     "Latitude": 30.257809,
     "Longitude": -90.904148
   },
@@ -1373,6 +1453,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70774-0383",
     "Contractor Phone": "225-677-8463",
+    "Type": "SF",
     "Latitude": 30.297279,
     "Longitude": -90.921562
   },
@@ -1390,6 +1471,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "BATH AXR",
     "Latitude": 30.316225,
     "Longitude": -90.939175
   },
@@ -1407,6 +1489,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70816,
     "Contractor Phone": "225-250-9938",
+    "Type": "SF",
     "Latitude": 30.281157,
     "Longitude": -90.956055
   },
@@ -1424,6 +1507,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70774-0383",
     "Contractor Phone": "225-677-8463",
+    "Type": "SF",
     "Latitude": 30.133105,
     "Longitude": -91.002273
   },
@@ -1441,6 +1525,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70710,
     "Contractor Phone": "225-687-6015",
+    "Type": "RENOV XR",
     "Latitude": 30.318633,
     "Longitude": -91.00881
   },
@@ -1458,6 +1543,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "FDR- / 4 PLEX",
     "Latitude": 30.3894322,
     "Longitude": -91.114839
   },
@@ -1475,6 +1561,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70821-4307",
     "Contractor Phone": "225-344-1023",
+    "Type": "TEN RENOV- / STE 201",
     "Latitude": 30.384822,
     "Longitude": -91.037745
   },
@@ -1492,6 +1579,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70115,
     "Contractor Phone": "504-864-3373",
+    "Type": "TF- / RESTAURANT",
     "Latitude": 30.3978046,
     "Longitude": -91.1141131
   },
@@ -1509,6 +1597,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70817,
     "Contractor Phone": "225-751-9784",
+    "Type": "TEN RENOV- / STE A",
     "Latitude": 30.4477308,
     "Longitude": -91.0312463
   },
@@ -1526,6 +1615,7 @@
     "Contractor Master_State": "TX",
     "Contractor Master_Zip Code": 77046,
     "Contractor Phone": "832-209-1200",
+    "Type": "5 STY / STUDENT / HOUSING",
     "Latitude": 30.4035251,
     "Longitude": -91.1787463
   },
@@ -1543,6 +1633,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70816,
     "Contractor Phone": "225-296-1557",
+    "Type": "TEN RENOV",
     "Latitude": 30.41066,
     "Longitude": -91.146881
   },
@@ -1560,6 +1651,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.472602,
     "Longitude": -91.150916
   },
@@ -1577,6 +1669,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.458614,
     "Longitude": -91.1380135
   },
@@ -1594,6 +1687,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70506,
     "Contractor Phone": "337-896-7720",
+    "Type": "RENOV XR",
     "Latitude": 30.4861267,
     "Longitude": -91.1449217
   },
@@ -1611,6 +1705,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.701158,
     "Longitude": -91.072674
   },
@@ -1628,6 +1723,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.635619,
     "Longitude": -90.936566
   },
@@ -1645,6 +1741,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-338-6120",
+    "Type": "2 SFS",
     "Latitude": 30.38135,
     "Longitude": -91.000506
   },
@@ -1662,6 +1759,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.645194,
     "Longitude": -91.15863
   },
@@ -1679,6 +1777,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "2 SFS",
     "Latitude": 30.645671,
     "Longitude": -91.061447
   },
@@ -1696,6 +1795,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.517635,
     "Longitude": -91.1393796
   },
@@ -1713,6 +1813,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.5562896,
     "Longitude": -90.9829441
   },
@@ -1730,6 +1831,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70726,
     "Contractor Phone": "225-664-1240",
+    "Type": "SF",
     "Latitude": 30.641035,
     "Longitude": -91.129053
   },
@@ -1747,6 +1849,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70815,
     "Contractor Phone": "225-275-7445",
+    "Type": "FDR",
     "Latitude": 30.7074713,
     "Longitude": -91.1367318
   },
@@ -1764,6 +1867,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / POLE BARN",
     "Latitude": 30.4775669,
     "Longitude": -91.1191173
   },
@@ -1781,6 +1885,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70809,
     "Contractor Phone": "225-292-4171",
+    "Type": "SF",
     "Latitude": 30.273812,
     "Longitude": -90.812405
   },
@@ -1798,6 +1903,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-293-4545",
+    "Type": "SF",
     "Latitude": 30.284193,
     "Longitude": -90.925075
   },
@@ -1815,6 +1921,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "METAL / ACC BLDG",
     "Latitude": 30.207677,
     "Longitude": -90.893414
   },
@@ -1832,6 +1939,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70448,
     "Contractor Phone": "985-845-0774",
+    "Type": "RENOV XR",
     "Latitude": 30.406492,
     "Longitude": -90.121375
   },
@@ -1849,6 +1957,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70005,
     "Contractor Phone": "504-919-3947",
+    "Type": "RENOV XR",
     "Latitude": 30.404257,
     "Longitude": -90.152957
   },
@@ -1866,6 +1975,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.798282,
     "Longitude": -90.042853
   },
@@ -1883,6 +1993,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.377796,
     "Longitude": -90.024436
   },
@@ -1900,6 +2011,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70002,
     "Contractor Phone": "504-400-5150",
+    "Type": "SF",
     "Latitude": 30.45886,
     "Longitude": -90.156595
   },
@@ -1917,6 +2029,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70055,
     "Contractor Phone": "504-837-2000",
+    "Type": "TF- / OPTHALMOLOGY / CLINIC",
     "Latitude": 30.437916,
     "Longitude": -90.083497
   },
@@ -1934,6 +2047,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70744,
     "Contractor Phone": "985-687-4269",
+    "Type": "ACE HARDWARE",
     "Latitude": 30.4124972,
     "Longitude": -90.1611773
   },
@@ -1951,6 +2065,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70433,
     "Contractor Phone": "985-892-8047",
+    "Type": "METAL BLDG/ / STE 100",
     "Latitude": 30.45886,
     "Longitude": -90.156595
   },
@@ -1968,6 +2083,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "NEW LOVE'S / STORE",
     "Latitude": 30.36218,
     "Longitude": -90.039451
   },
@@ -1985,6 +2101,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70005,
     "Contractor Phone": "504-919-3947",
+    "Type": "RENOV XR",
     "Latitude": 30.3682727,
     "Longitude": -90.085435
   },
@@ -2002,6 +2119,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / PERGOLA",
     "Latitude": 30.3868502,
     "Longitude": -90.1075129
   },
@@ -2019,6 +2137,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.18356,
     "Longitude": -89.749029
   },
@@ -2036,6 +2155,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70062,
     "Contractor Phone": "504-464-4712",
+    "Type": "RENOV XR",
     "Latitude": 30.262176,
     "Longitude": -89.834976
   },
@@ -2053,6 +2173,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / SHOP",
     "Latitude": 30.31525,
     "Longitude": -89.850521
   },
@@ -2070,6 +2191,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70435,
     "Contractor Phone": "985-893-3773",
+    "Type": "CHEMICAL / STORAGE / BLDG",
     "Latitude": 30.284608,
     "Longitude": -89.849378
   },
@@ -2087,6 +2209,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70470,
     "Contractor Phone": "985-966-5280",
+    "Type": "SF",
     "Latitude": "N/A",
     "Longitude": "N/A"
   },
@@ -2104,6 +2227,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR",
     "Latitude": 30.464311,
     "Longitude": -90.063723
   },
@@ -2121,6 +2245,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70448,
     "Contractor Phone": "985-705-3545",
+    "Type": "SF",
     "Latitude": 30.413962,
     "Longitude": -90.125828
   },
@@ -2138,6 +2263,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / CARPORT",
     "Latitude": 30.760419,
     "Longitude": -90.704271
   },
@@ -2155,6 +2281,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70433,
     "Contractor Phone": "504-669-7405",
+    "Type": "AXR",
     "Latitude": 30.46402,
     "Longitude": -90.065267
   },
@@ -2172,6 +2299,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70122,
     "Contractor Phone": "504-861-2077",
+    "Type": "2 SFS",
     "Latitude": 30.4733391,
     "Longitude": -90.0836518
   },
@@ -2189,6 +2317,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70470,
     "Contractor Phone": "985-624-8757",
+    "Type": "SF",
     "Latitude": 30.45886,
     "Longitude": -90.156595
   },
@@ -2206,6 +2335,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "2 SFS",
     "Latitude": 30.464814,
     "Longitude": -90.446554
   },
@@ -2223,6 +2353,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "2 SFS",
     "Latitude": 30.338237,
     "Longitude": -89.962139
   },
@@ -2240,6 +2371,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "3 SFS",
     "Latitude": 30.377796,
     "Longitude": -90.024436
   },
@@ -2257,6 +2389,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70448,
     "Contractor Phone": "504-488-1192",
+    "Type": "AXR",
     "Latitude": 30.497769,
     "Longitude": -90.443485
   },
@@ -2274,6 +2407,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.40436,
     "Longitude": -90.15702
   },
@@ -2291,6 +2425,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.371067,
     "Longitude": -89.759984
   },
@@ -2308,6 +2443,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.682763,
     "Longitude": -90.132042
   },
@@ -2325,6 +2461,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70057,
     "Contractor Phone": "504-252-9200",
+    "Type": "TEN RENOV- / EAST & WEST / WING",
     "Latitude": 30.451843,
     "Longitude": -90.097179
   },
@@ -2342,6 +2479,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70065,
     "Contractor Phone": "504-417-5305",
+    "Type": "RENOV XR",
     "Latitude": 30.4116601,
     "Longitude": -90.1596984
   },
@@ -2359,6 +2497,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70448,
     "Contractor Phone": "985-951-7405",
+    "Type": "TF- / STE A/ / AMAZING LASH",
     "Latitude": 30.386114,
     "Longitude": -90.089945
   },
@@ -2376,6 +2515,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70726,
     "Contractor Phone": "225-614-6808",
+    "Type": "AXR- / PATIO",
     "Latitude": 30.386227,
     "Longitude": -90.114331
   },
@@ -2393,6 +2533,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70121,
     "Contractor Phone": "863-669-7292",
+    "Type": "2 AXRS",
     "Latitude": 30.392427,
     "Longitude": -90.093616
   },
@@ -2410,6 +2551,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / SHED",
     "Latitude": 30.358394,
     "Longitude": -90.058628
   },
@@ -2427,6 +2569,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.183539,
     "Longitude": -89.748873
   },
@@ -2444,6 +2587,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70726,
     "Contractor Phone": "225-678-8613",
+    "Type": "4 SFS",
     "Latitude": 30.429385,
     "Longitude": -90.43307
   },
@@ -2461,6 +2605,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70056,
     "Contractor Phone": "504-342-6935",
+    "Type": "RENOV XR",
     "Latitude": 29.8616223,
     "Longitude": -89.9994378
   },
@@ -2478,6 +2623,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70003,
     "Contractor Phone": "504-628-5991",
+    "Type": "SF",
     "Latitude": 29.94328,
     "Longitude": -89.954553
   },
@@ -2495,6 +2641,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70003,
     "Contractor Phone": "504-628-5991",
+    "Type": "SF",
     "Latitude": 29.9483753,
     "Longitude": -89.9513297
   },
@@ -2512,6 +2659,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "",
+    "Type": "FDR",
     "Latitude": 29.9585365,
     "Longitude": -89.9753061
   },
@@ -2529,6 +2677,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / STORAGE",
     "Latitude": 30.2912,
     "Longitude": -92.482487
   },
@@ -2546,6 +2695,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70535,
     "Contractor Phone": "337-546-0241",
+    "Type": "TEN RENOV- / BLDG B",
     "Latitude": 30.4838019,
     "Longitude": -92.4128919
   },
@@ -2563,6 +2713,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "SF",
     "Latitude": 30.365886,
     "Longitude": -92.275089
   },
@@ -2580,6 +2731,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70529,
     "Contractor Phone": "337-658-9425",
+    "Type": "NEW COMM",
     "Latitude": 30.194192,
     "Longitude": -92.05812
   },
@@ -2597,6 +2749,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70598-1341",
     "Contractor Phone": "337-232-4133",
+    "Type": "TEN RENOV",
     "Latitude": 30.2289299,
     "Longitude": -91.9940739
   },
@@ -2614,6 +2767,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70520,
     "Contractor Phone": "337-520-1334",
+    "Type": "TEN RENOV",
     "Latitude": 30.2802181,
     "Longitude": -91.9776037
   },
@@ -2631,6 +2785,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70584,
     "Contractor Phone": "337-298-1355",
+    "Type": "TEN RENOV",
     "Latitude": 30.2152918,
     "Longitude": -92.0235828
   },
@@ -2648,6 +2803,7 @@
     "Contractor Master_State": "PA",
     "Contractor Master_Zip Code": 16037,
     "Contractor Phone": "724-452-8801",
+    "Type": "TEN RENOV",
     "Latitude": 30.1685779,
     "Longitude": -92.0243677
   },
@@ -2665,6 +2821,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70505-1133",
     "Contractor Phone": "337-256-3880",
+    "Type": "TEN RENOV",
     "Latitude": 30.2062745,
     "Longitude": -92.0388626
   },
@@ -2682,6 +2839,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70518,
     "Contractor Phone": "337-252-7286",
+    "Type": "TEN RENOV",
     "Latitude": 30.232541,
     "Longitude": -92.008601
   },
@@ -2699,6 +2857,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "SF",
     "Latitude": 30.2694191,
     "Longitude": -92.0236951
   },
@@ -2716,6 +2875,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70809,
     "Contractor Phone": "225-925-8597",
+    "Type": "RENOV XR",
     "Latitude": 30.2015665,
     "Longitude": -92.0107253
   },
@@ -2733,6 +2893,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / STORAGE",
     "Latitude": 30.2311429,
     "Longitude": -91.9939038
   },
@@ -2750,6 +2911,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70517,
     "Contractor Phone": "225-202-9150",
+    "Type": "SF",
     "Latitude": 30.2296703,
     "Longitude": -92.0067137
   },
@@ -2767,6 +2929,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70454,
     "Contractor Phone": "985-419-9883",
+    "Type": "SF",
     "Latitude": 30.308083,
     "Longitude": -92.091458
   },
@@ -2784,6 +2947,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "SF",
     "Latitude": 30.290169,
     "Longitude": -91.817831
   },
@@ -2801,6 +2965,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "2 SFS",
     "Latitude": 30.327117,
     "Longitude": -92.041737
   },
@@ -2818,6 +2983,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "SF",
     "Latitude": 30.1619177,
     "Longitude": -92.0965192
   },
@@ -2835,6 +3001,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "SF",
     "Latitude": 30.327116,
     "Longitude": -92.041349
   },
@@ -2852,6 +3019,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "SF",
     "Latitude": 30.539292,
     "Longitude": -92.106231
   },
@@ -2869,6 +3037,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "6 SFS",
     "Latitude": 30.216602,
     "Longitude": -92.08182
   },
@@ -2886,6 +3055,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "4 SFS",
     "Latitude": 30.110476,
     "Longitude": -91.832667
   },
@@ -2903,6 +3073,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70726,
     "Contractor Phone": "225-664-1240",
+    "Type": "4 SFS",
     "Latitude": 30.181509,
     "Longitude": -92.10561
   },
@@ -2920,6 +3091,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70726,
     "Contractor Phone": "225-664-1240",
+    "Type": "2 SFS",
     "Latitude": 30.181509,
     "Longitude": -92.10561
   },
@@ -2937,6 +3109,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / STORAGE",
     "Latitude": 30.2983286,
     "Longitude": -91.9919181
   },
@@ -2954,6 +3127,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-338-6120",
+    "Type": "3 SFS",
     "Latitude": 30.21724,
     "Longitude": -92.081609
   },
@@ -2971,6 +3145,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "3 SFS",
     "Latitude": 30.09965,
     "Longitude": -91.99012
   },
@@ -2988,6 +3163,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-338-6120",
+    "Type": "2 SFS",
     "Latitude": 30.226612,
     "Longitude": -92.819415
   },
@@ -3005,6 +3181,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.514084,
     "Longitude": -92.27815
   },
@@ -3022,6 +3199,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70647,
     "Contractor Phone": "337-214-0428",
+    "Type": "AXR- / STORAGE",
     "Latitude": 30.077707,
     "Longitude": -92.07737
   },
@@ -3039,6 +3217,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.002744,
     "Longitude": -91.8879
   },
@@ -3056,6 +3235,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "COMM",
     "Latitude": 29.995933,
     "Longitude": -92.130197
   },
@@ -3073,6 +3253,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70518,
     "Contractor Phone": "337-560-9667",
+    "Type": "AXR- / SHOP",
     "Latitude": 29.974292,
     "Longitude": -91.883034
   },
@@ -3090,6 +3271,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / SHOP W/ / BED & BATH",
     "Latitude": 29.986291,
     "Longitude": -91.778416
   },
@@ -3107,6 +3289,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 71351,
     "Contractor Phone": "318-305-0408",
+    "Type": "AXR- / SHOP",
     "Latitude": 30.023806,
     "Longitude": -91.733316
   },
@@ -3124,6 +3307,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70562-3206",
     "Contractor Phone": "337-364-9112",
+    "Type": "AXR- / SHOP",
     "Latitude": 30.040966,
     "Longitude": -91.771125
   },
@@ -3141,6 +3325,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70507,
     "Contractor Phone": "337-235-5848",
+    "Type": "AXR- / SHOP",
     "Latitude": 30.0674619,
     "Longitude": -91.715124
   },
@@ -3158,6 +3343,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.237014,
     "Longitude": -92.094259
   },
@@ -3175,6 +3361,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "TEN RENOV",
     "Latitude": 30.021901,
     "Longitude": -91.833341
   },
@@ -3192,6 +3379,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70434-2293",
     "Contractor Phone": "985-327-9866",
+    "Type": "SF",
     "Latitude": 30.239701,
     "Longitude": -92.176994
   },
@@ -3209,6 +3397,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70592-1394",
     "Contractor Phone": "337-654-7811",
+    "Type": "SF",
     "Latitude": 30.550431,
     "Longitude": -91.962028
   },
@@ -3226,6 +3415,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": "70592-1394",
     "Contractor Phone": "337-654-7811",
+    "Type": "SF",
     "Latitude": 30.195744,
     "Longitude": -92.100188
   },
@@ -3243,6 +3433,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70726,
     "Contractor Phone": "225-667-2220",
+    "Type": "FDR",
     "Latitude": 30.303018,
     "Longitude": -91.811127
   },
@@ -3260,6 +3451,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "SF",
     "Latitude": 30.418119,
     "Longitude": -91.986914
   },
@@ -3277,6 +3469,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR- / SHOP",
     "Latitude": 30.612234,
     "Longitude": -91.952848
   },
@@ -3294,6 +3487,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "SF",
     "Latitude": 30.509411,
     "Longitude": -92.288335
   },
@@ -3311,6 +3505,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.373335,
     "Longitude": -92.080877
   },
@@ -3328,6 +3523,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70508,
     "Contractor Phone": "337-981-5315",
+    "Type": "SF",
     "Latitude": 30.343174,
     "Longitude": -91.808795
   },
@@ -3345,6 +3541,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39532,
     "Contractor Phone": "210-216-0512",
+    "Type": "8 - SFS",
     "Latitude": 30.44439,
     "Longitude": -88.818345
   },
@@ -3362,6 +3559,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.560008,
     "Longitude": -88.491377
   },
@@ -3379,6 +3577,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.586488,
     "Longitude": -88.458652
   },
@@ -3396,6 +3595,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "ACC BLDG",
     "Latitude": 30.578934,
     "Longitude": -88.695119
   },
@@ -3413,6 +3613,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39553,
     "Contractor Phone": "228-217-0403",
+    "Type": "SF",
     "Latitude": 30.353295,
     "Longitude": -88.697094
   },
@@ -3430,6 +3631,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39562,
     "Contractor Phone": "228-588-3786",
+    "Type": "SF",
     "Latitude": 30.635069,
     "Longitude": -88.412164
   },
@@ -3447,6 +3649,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.4165,
     "Longitude": -88.788875
   },
@@ -3464,6 +3667,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR- / INT",
     "Latitude": 30.404352,
     "Longitude": -88.799297
   },
@@ -3481,6 +3685,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "228-623-0835",
+    "Type": "DECK",
     "Latitude": 30.4168304,
     "Longitude": -88.7924634
   },
@@ -3498,6 +3703,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39452,
     "Contractor Phone": "228-623-6694",
+    "Type": "PORCH / ENCLOSURE",
     "Latitude": 30.417979,
     "Longitude": -88.823806
   },
@@ -3515,6 +3721,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39532,
     "Contractor Phone": "228-234-5172",
+    "Type": "SF",
     "Latitude": 30.4049113,
     "Longitude": -88.8224962
   },
@@ -3532,6 +3739,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.494861,
     "Longitude": -88.703736
   },
@@ -3549,6 +3757,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "ACC BLDG",
     "Latitude": 30.390677,
     "Longitude": -88.507615
   },
@@ -3566,6 +3775,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39452,
     "Contractor Phone": "228-990-6690",
+    "Type": "2 - SFS",
     "Latitude": 31.254641,
     "Longitude": -89.839576
   },
@@ -3583,6 +3793,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39562,
     "Contractor Phone": "228-990-6690",
+    "Type": "SF",
     "Latitude": 30.626143,
     "Longitude": -88.571672
   },
@@ -3600,6 +3811,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39562,
     "Contractor Phone": "228-990-6690",
+    "Type": "SF",
     "Latitude": 30.73493,
     "Longitude": -88.517484
   },
@@ -3617,6 +3829,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "ACC BLDG",
     "Latitude": 30.4072557,
     "Longitude": -88.5081433
   },
@@ -3634,6 +3847,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "2 - SFS",
     "Latitude": 30.543432,
     "Longitude": -88.952597
   },
@@ -3651,6 +3865,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.563409,
     "Longitude": -88.643107
   },
@@ -3668,6 +3883,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.405229,
     "Longitude": -88.758742
   },
@@ -3685,6 +3901,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "ACC BLDG",
     "Latitude": 30.540333,
     "Longitude": -88.64783
   },
@@ -3702,6 +3919,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.713239,
     "Longitude": -88.518661
   },
@@ -3719,6 +3937,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 30.405229,
     "Longitude": -88.758742
   },
@@ -3736,6 +3955,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.408453,
     "Longitude": -88.7969939
   },
@@ -3753,6 +3973,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR",
     "Latitude": 30.4091742,
     "Longitude": -88.8017767
   },
@@ -3770,6 +3991,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR",
     "Latitude": 30.3955311,
     "Longitude": -88.8076404
   },
@@ -3787,6 +4009,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39553,
     "Contractor Phone": "228-217-0403",
+    "Type": "AXR",
     "Latitude": 30.4092622,
     "Longitude": -88.81153
   },
@@ -3804,6 +4027,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39532,
     "Contractor Phone": "228-215-1943",
+    "Type": "2 - SFS",
     "Latitude": 30.423673,
     "Longitude": -88.762649
   },
@@ -3821,6 +4045,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39564,
     "Contractor Phone": "228-215-0469",
+    "Type": "ACC BLDG",
     "Latitude": 30.465171,
     "Longitude": -88.865097
   },
@@ -3838,6 +4063,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.583169,
     "Longitude": -88.68211
   },
@@ -3855,6 +4081,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.496444,
     "Longitude": -88.870198
   },
@@ -3872,6 +4099,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39565,
     "Contractor Phone": "228-826-0508",
+    "Type": "SF",
     "Latitude": 30.571833,
     "Longitude": -88.707239
   },
@@ -3889,6 +4117,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "ACC BLDG",
     "Latitude": 30.672624,
     "Longitude": -88.808385
   },
@@ -3906,6 +4135,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39581,
     "Contractor Phone": "228-355-1062",
+    "Type": "EXTEND CARPORT",
     "Latitude": 30.672624,
     "Longitude": -88.808385
   },
@@ -3923,6 +4153,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39564,
     "Contractor Phone": "228-348-7800",
+    "Type": "ACC BLDG",
     "Latitude": 30.3971532,
     "Longitude": -88.8067917
   },
@@ -3940,6 +4171,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "AXR",
     "Latitude": 30.3959219,
     "Longitude": -88.7711614
   },
@@ -3957,6 +4189,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39531,
     "Contractor Phone": "228-669-4720",
+    "Type": "AXR",
     "Latitude": 30.400634,
     "Longitude": -88.7989187
   },
@@ -3974,6 +4207,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "COVERED / PORCH",
     "Latitude": 30.405229,
     "Longitude": -88.758742
   },
@@ -3991,6 +4225,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SHED",
     "Latitude": 30.4115382,
     "Longitude": -88.8077921
   },
@@ -4008,6 +4243,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39564,
     "Contractor Phone": "601-201-0188",
+    "Type": "SF",
     "Latitude": 30.422546,
     "Longitude": -88.762391
   },
@@ -4025,6 +4261,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "GARAGE/CAR- / PORT & / DRIVE/SIDEWALK",
     "Latitude": 30.406888,
     "Longitude": -88.8031117
   },
@@ -4042,6 +4279,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39501,
     "Contractor Phone": "210-216-0512",
+    "Type": "10 - SFS",
     "Latitude": 30.411505,
     "Longitude": -88.748021
   },
@@ -4059,6 +4297,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39560,
     "Contractor Phone": "228-547-4610",
+    "Type": "TEN RENOV- / UNITS B & C",
     "Latitude": 30.396877,
     "Longitude": -88.7618919
   },
@@ -4076,6 +4315,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70124,
     "Contractor Phone": "504-810-9469",
+    "Type": "RENOV XR",
     "Latitude": 30.0187483,
     "Longitude": -90.2079007
   },
@@ -4093,6 +4333,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70047,
     "Contractor Phone": "504-382-8505",
+    "Type": "AXR- / STORAGE",
     "Latitude": 29.979144,
     "Longitude": -90.159153
   },
@@ -4110,6 +4351,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70006,
     "Contractor Phone": "504-202-0413",
+    "Type": "SDR",
     "Latitude": 29.986666,
     "Longitude": -90.227816
   },
@@ -4127,6 +4369,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70058,
     "Contractor Phone": "504-940-7552",
+    "Type": "RENOV XR",
     "Latitude": 29.9655619,
     "Longitude": -90.1509083
   },
@@ -4144,6 +4387,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70005,
     "Contractor Phone": "504-833-7259",
+    "Type": "SF",
     "Latitude": 29.9918455,
     "Longitude": -90.1467395
   },
@@ -4161,6 +4405,7 @@
     "Contractor Master_State": "CO",
     "Contractor Master_Zip Code": 80210,
     "Contractor Phone": "303-474-5524",
+    "Type": "AXR- / SHED",
     "Latitude": 29.973942,
     "Longitude": -90.1764065
   },
@@ -4178,6 +4423,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70065,
     "Contractor Phone": "504-466-3242",
+    "Type": "RENOV XR",
     "Latitude": 29.992995,
     "Longitude": -90.184554
   },
@@ -4195,6 +4441,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70124,
     "Contractor Phone": "504-509-6440",
+    "Type": "SF",
     "Latitude": 29.9800221,
     "Longitude": -90.1309359
   },
@@ -4212,6 +4459,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70726,
     "Contractor Phone": "504-468-8005",
+    "Type": "SF",
     "Latitude": 29.8573231,
     "Longitude": -90.083325
   },
@@ -4229,6 +4477,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70094,
     "Contractor Phone": "225-678-4348",
+    "Type": "RENOV XR",
     "Latitude": 29.873313,
     "Longitude": -90.124061
   },
@@ -4246,6 +4495,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70032,
     "Contractor Phone": "504-444-7399",
+    "Type": "9 SFS",
     "Latitude": 29.912639,
     "Longitude": -90.223106
   },
@@ -4263,6 +4513,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70056,
     "Contractor Phone": "504-908-6993",
+    "Type": "AXR- / CARPORT/ / STORAGE & / BATH",
     "Latitude": 29.8563412,
     "Longitude": -90.0352059
   },
@@ -4280,6 +4531,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70461,
     "Contractor Phone": "985-639-1960",
+    "Type": "SF",
     "Latitude": 29.9398305,
     "Longitude": -90.2478396
   },
@@ -4297,6 +4549,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70072,
     "Contractor Phone": "504-439-4123",
+    "Type": "SF",
     "Latitude": 29.8799732,
     "Longitude": -90.0822755
   },
@@ -4314,6 +4567,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70726,
     "Contractor Phone": "225-678-8613",
+    "Type": "SF",
     "Latitude": 29.9135659,
     "Longitude": -90.025978
   },
@@ -4331,6 +4585,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 29.968657,
     "Longitude": -90.366905
   },
@@ -4348,6 +4603,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 29.912983,
     "Longitude": -90.203687
   },
@@ -4365,6 +4621,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70810,
     "Contractor Phone": "225-791-6860",
+    "Type": "SF",
     "Latitude": 29.912983,
     "Longitude": -90.203687
   },
@@ -4382,6 +4639,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70122,
     "Contractor Phone": "504-861-2077",
+    "Type": "SF",
     "Latitude": 29.892339,
     "Longitude": -90.026664
   },
@@ -4399,6 +4657,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70058,
     "Contractor Phone": "504-367-9034",
+    "Type": "METAL BLDG",
     "Latitude": 29.877817,
     "Longitude": -90.083237
   },
@@ -4416,6 +4675,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70809,
     "Contractor Phone": "225-293-8650",
+    "Type": "TEN RENOV",
     "Latitude": 29.8953261,
     "Longitude": -90.0573008
   },
@@ -4433,6 +4693,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.585234,
     "Longitude": -89.687018
   },
@@ -4450,6 +4711,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 31.4229323,
     "Longitude": -89.5321511
   },
@@ -4467,6 +4729,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 31.411965,
     "Longitude": -89.630539
   },
@@ -4484,6 +4747,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "IN-LAW SUITE / AXR",
     "Latitude": 31.167743,
     "Longitude": -89.585903
   },
@@ -4501,6 +4765,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39402,
     "Contractor Phone": "601-441-4944",
+    "Type": "SF",
     "Latitude": 31.259025,
     "Longitude": -89.53821
   },
@@ -4518,6 +4783,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "NEW SHOP- / BLDG A",
     "Latitude": 31.1683964,
     "Longitude": -89.4187768
   },
@@ -4535,6 +4801,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 31.322194,
     "Longitude": -89.455091
   },
@@ -4552,6 +4819,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 31.4332921,
     "Longitude": -89.5421639
   },
@@ -4569,6 +4837,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39404,
     "Contractor Phone": "601-264-3682",
+    "Type": "NEW / COMMERCIAL- / STES # 01 & 02",
     "Latitude": 31.335865,
     "Longitude": -89.379246
   },
@@ -4586,6 +4855,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39402,
     "Contractor Phone": "601-441-4944",
+    "Type": "SF",
     "Latitude": 31.672529,
     "Longitude": -89.140219
   },
@@ -4603,6 +4873,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 31.260984,
     "Longitude": -89.505626
   },
@@ -4620,6 +4891,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SHOP",
     "Latitude": 31.27617,
     "Longitude": -89.486148
   },
@@ -4637,6 +4909,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.839542,
     "Longitude": -88.584746
   },
@@ -4654,6 +4927,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39402,
     "Contractor Phone": "601-270-8022",
+    "Type": "SF",
     "Latitude": 31.339315,
     "Longitude": -89.399083
   },
@@ -4671,6 +4945,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39426,
     "Contractor Phone": "601-348-7770",
+    "Type": "SF",
     "Latitude": 30.643239,
     "Longitude": -89.589779
   },
@@ -4688,6 +4963,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "POLE BARN",
     "Latitude": 30.539718,
     "Longitude": -89.603034
   },
@@ -4705,6 +4981,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39466,
     "Contractor Phone": "601-273-1278",
+    "Type": "BARN",
     "Latitude": 30.663072,
     "Longitude": -89.764769
   },
@@ -4722,6 +4999,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "METAL / GARAGE / W/LEAN-TO",
     "Latitude": 30.704553,
     "Longitude": -89.676773
   },
@@ -4739,6 +5017,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "UTILITY / SHED",
     "Latitude": 30.899106,
     "Longitude": -89.38045
   },
@@ -4756,6 +5035,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "UTILITY / BLDG W/BATH",
     "Latitude": 30.568599,
     "Longitude": -89.753503
   },
@@ -4773,6 +5053,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "STORAGE / SHE",
     "Latitude": 31.590894,
     "Longitude": -89.362939
   },
@@ -4790,6 +5071,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "COMMERCIAL- / WORKSHOP / FOR POULTRY",
     "Latitude": 30.600247,
     "Longitude": -89.646033
   },
@@ -4807,6 +5089,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.664078,
     "Longitude": -89.735752
   },
@@ -4824,6 +5107,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39470,
     "Contractor Phone": "601-916-9287",
+    "Type": "SF & / GUEST SF",
     "Latitude": 30.795771,
     "Longitude": -89.73568
   },
@@ -4841,6 +5125,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 31.580379,
     "Longitude": -89.129829
   },
@@ -4858,6 +5143,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39426,
     "Contractor Phone": "601-916-2094",
+    "Type": "METAL SF",
     "Latitude": 30.493277,
     "Longitude": -89.699329
   },
@@ -4875,6 +5161,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.771989,
     "Longitude": -89.587543
   },
@@ -4892,6 +5179,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "SF",
     "Latitude": 30.841704,
     "Longitude": -89.489596
   },
@@ -4909,6 +5197,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39573,
     "Contractor Phone": "228-342-5600",
+    "Type": "SF",
     "Latitude": 33.4360072,
     "Longitude": -90.8293047
   },
@@ -4926,6 +5215,7 @@
     "Contractor Master_State": "",
     "Contractor Master_Zip Code": "",
     "Contractor Phone": "-",
+    "Type": "RENOV XR / & AXR",
     "Latitude": 30.686951,
     "Longitude": -89.728957
   },
@@ -4943,6 +5233,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39466,
     "Contractor Phone": "601-707-6637",
+    "Type": "AXR",
     "Latitude": 30.52556,
     "Longitude": -89.67788
   },
@@ -4960,6 +5251,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39426,
     "Contractor Phone": "601-347-6665",
+    "Type": "SF",
     "Latitude": 30.6051,
     "Longitude": -89.788179
   },
@@ -4977,6 +5269,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39466,
     "Contractor Phone": "985-317-4457",
+    "Type": "SF",
     "Latitude": 30.580036,
     "Longitude": -89.643943
   },
@@ -4994,6 +5287,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39426,
     "Contractor Phone": "504-858-0549",
+    "Type": "SF",
     "Latitude": 31.499533,
     "Longitude": -89.740144
   },
@@ -5011,6 +5305,7 @@
     "Contractor Master_State": "LA",
     "Contractor Master_Zip Code": 70452,
     "Contractor Phone": "601-799-8517",
+    "Type": "SF",
     "Latitude": 30.65608,
     "Longitude": -89.389421
   },
@@ -5028,6 +5323,7 @@
     "Contractor Master_State": "MS",
     "Contractor Master_Zip Code": 39470,
     "Contractor Phone": "601-347-4527",
+    "Type": "SF",
     "Latitude": 30.668877,
     "Longitude": -89.638614
   }
