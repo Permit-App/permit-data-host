@@ -1,6 +1,10 @@
 const fs = require("fs");
 const path = require("path");
 
+const config_file_path = path.join(__dirname, 'batch_configuration.json');
+const batch_directory_path = path.join(__dirname, 'batches');
+
+
 function chunkArray(arr, size) {
   const chunks = [];
   for (let i = 0; i < arr.length; i += size) {
@@ -31,9 +35,18 @@ function formatValue(v, key) {
   return `'${String(v).replace(/'/g, "''")}'`;
 }
 
-function createBatchedSQLFiles(data, batchSize = 100, outDir = "batches") {
-  const table = "construction_permits";
+function getBatchConfig() {
+  let batchConfig = {};
+  if (fs.existsSync(config_file_path)) {
+    batchConfig = JSON.parse(fs.readFileSync(config_file_path, 'utf8'));
+    console.log(`📂 Loaded batch configuration with ${Object.keys(batchConfig).length} entries.`);
+  }
 
+  return batchConfig;
+}
+
+function generateSql(data){
+  const table = "construction_permits";
   const columns = [
     "county",
     "street_address",
@@ -51,15 +64,7 @@ function createBatchedSQLFiles(data, batchSize = 100, outDir = "batches") {
     "permit_type",
   ];
 
-  // ensure output directory exists
-  fs.mkdirSync(outDir, { recursive: true });
-
-  const chunks = chunkArray(data, batchSize);
-  const writtenFiles = [];
-
-  chunks.forEach((chunk, idx) => {
-    const values = chunk
-      .map((d) => {
+    const values = data.map((d) => {
         const rowFields = [
           d.County,
           d["Street Address"],
@@ -102,17 +107,71 @@ function createBatchedSQLFiles(data, batchSize = 100, outDir = "batches") {
 
     const sql = `INSERT INTO ${table} (${columns.join(", ")}) VALUES\n${values};`;
 
-    const filename = path.join(outDir, `batch_${idx + 1}.sql`);
-    fs.writeFileSync(filename, sql, "utf8");
-    writtenFiles.push({ file: filename, rows: chunk.length });
-    console.log(`Wrote ${filename} (${chunk.length} rows)`);
+    return sql
+}
+
+
+function createBatchedSQLFiles(data, batchSize = 100, batchConfig) {
+
+  // ensure output directory exists
+  fs.mkdirSync(batch_directory_path, { recursive: true });
+
+
+  // Loop through batch config and process failed or unprocessed entries
+
+  let alreadyProcessedRowCount = 0;
+  const oldChunks = Object.keys(batchConfig);
+  const updatedFiles = [];
+  // Process existing batches
+  oldChunks.forEach((filename) => {
+    const batch = batchConfig[filename];
+    alreadyProcessedRowCount += batch.row_count;
+
+    if (batch.status !== "failed") {
+      return;
+    }
+    // Rewrite the SQL file for re-processing for failed batches
+    const oldChunk = data.slice(alreadyProcessedRowCount, alreadyProcessedRowCount + batch.row_count);
+    const sql = generateSql(oldChunk);
+
+    const filePath = path.join(batch_directory_path, filename);
+    fs.writeFileSync(filePath, sql, "utf8");
+    updatedFiles.push({ file: filename, rows: oldChunk.length });
   });
 
-  return writtenFiles;
+  const newlyAddedData = data.slice(alreadyProcessedRowCount);
+  const newChunks = chunkArray(newlyAddedData, batchSize);
+  const writtenFiles = [];
+  newChunks.forEach((chunk, idx) => {
+    const sql = generateSql(chunk)
+    const filename = `batch_${idx + 1 + oldChunks.length}.sql`;
+
+    const filePath = path.join(batch_directory_path, filename);
+    fs.writeFileSync(filePath, sql, "utf8");
+    
+    // Add to batch configuration with filename as key
+    batchConfig[filename] = {
+      file_name: filename,
+      row_count: chunk.length,
+      status: 'pending'
+    };
+    
+    writtenFiles.push({ file: filename, rows: chunk.length });
+  });
+
+  // Save updated batch configuration
+  fs.writeFileSync(config_file_path, JSON.stringify(batchConfig, null, 2), 'utf8');
+  console.log(`💾 Updated batch configuration saved.`);
+
+  return {
+    updated: updatedFiles,
+    writtenFiles: writtenFiles
+  };
 }
 
 const permits = require('./latest_cleaned.json');
+const batchConfig = getBatchConfig();
 
-console.log(permits.length + " permits to be loaded.");
-const result = createBatchedSQLFiles(permits, 50, path.join(__dirname, "batches"));
-console.log(`Created ${result.length} batch file(s).`);
+console.log(`📊 Total permits to process: ${permits.length}`);
+const result = createBatchedSQLFiles(permits, 50, batchConfig);
+console.log(`✅ Created ${result.writtenFiles.length} new batch file(s) and 🔄 updated ${result.updated.length} existing batch file(s).`);
