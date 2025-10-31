@@ -8,6 +8,9 @@ node_modules/
 *.log
 errors.log
 
+# Batch configuration
+batch_configuration.json
+
 # Generated folders
 batches/
 done/
