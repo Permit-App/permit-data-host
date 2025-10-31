@@ -125,13 +125,17 @@ function createBatchedSQLFiles(data, batchSize = 100, batchConfig) {
   // Process existing batches
   oldChunks.forEach((filename) => {
     const batch = batchConfig[filename];
+    const startIndex = alreadyProcessedRowCount;
+    const endIndex = alreadyProcessedRowCount + batch.row_count;
     alreadyProcessedRowCount += batch.row_count;
 
     if (batch.status !== "failed") {
       return;
     }
+
     // Rewrite the SQL file for re-processing for failed batches
-    const oldChunk = data.slice(alreadyProcessedRowCount, alreadyProcessedRowCount + batch.row_count);
+    const oldChunk = data.slice(startIndex, endIndex);
+
     const sql = generateSql(oldChunk);
 
     const filePath = path.join(batch_directory_path, filename);

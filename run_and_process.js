@@ -136,7 +136,6 @@ async function main() {
         // Move to done folder
         fs.renameSync(filePath, donePath);
         processedCount++;
-        console.log(`✅ ${batch.file_name} processed successfully`);
       } catch (err) {
         console.error(`❌ Error processing ${batch.file_name}:`, err.message);
         // Update status to error
@@ -162,7 +161,7 @@ async function main() {
     console.log(`📊 Summary: ✅ ${processedCount} processed, ❌ ${failedCount} failed`);
     
     // Ask user if they want to send notification
-    if (true) {
+    if (processedCount > 0) {
       const shouldNotify = await askUserForNotification();
       
       if (shouldNotify) {
