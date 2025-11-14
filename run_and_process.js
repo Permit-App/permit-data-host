@@ -79,7 +79,7 @@ async function main() {
   try {
     // Run test.js to generate batch files
     console.log('🔧 Generating batch files...');
-    execSync('node test.js', { stdio: 'inherit' });
+    execSync('node create_batches.js', { stdio: 'inherit' });
 
     // Load batch configuration
     if (!fs.existsSync(configPath)) {

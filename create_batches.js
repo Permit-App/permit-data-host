@@ -4,7 +4,6 @@ const path = require("path");
 const config_file_path = path.join(__dirname, 'batch_configuration.json');
 const batch_directory_path = path.join(__dirname, 'batches');
 
-
 function chunkArray(arr, size) {
   const chunks = [];
   for (let i = 0; i < arr.length; i += size) {
