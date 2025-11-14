@@ -52254,5 +52254,37 @@
     "Contractor Address": "N/A",
     "Contractor Phone": "N/A",
     "Type": "SF   "
+  },
+  {
+    "County": "PLAQUEMINES PARISH",
+    "Street Address": "312 GOOD NEWS AVE",
+    "City": "BELLE CHASSE",
+    "ZipCode": 70037,
+    "State": "LA",
+    "Latitude": 29.8615786,
+    "Longitude": -89.9991376,
+    "Geocode Source": "Cache",
+    "Contract Amount": "N/A",
+    "Contract Date": "2025-06-20T07:00:00.000Z",
+    "Contractor Name": "RIVERLANDS CONSTR & RENOV, LLC",
+    "Contractor Address": "425 FAIRFIELD AVE GRETNA LA 70056",
+    "Contractor Phone": "504-342-6935",
+    "Type": "RENOV XR"
+  },
+  {
+    "County": "PLAQUEMINES PARISH",
+    "Street Address": "312 GOOD NEWS AVE",
+    "City": "BELLE CHASSE",
+    "ZipCode": 70037,
+    "State": "LA",
+    "Latitude": 29.8615786,
+    "Longitude": -89.9991376,
+    "Geocode Source": "Cache",
+    "Contract Amount": "N/A",
+    "Contract Date": "2025-06-20T07:00:00.000Z",
+    "Contractor Name": "RIVERLANDS CONSTR & RENOV, LLC",
+    "Contractor Address": "425 FAIRFIELD AVE GRETNA LA 70056",
+    "Contractor Phone": "504-342-6935",
+    "Type": "RENOV XR"
   }
 ]
