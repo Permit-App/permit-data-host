@@ -108,6 +108,7 @@ async function main() {
     let processedCount = 0;
     let failedCount = 0;
     let skippedCount = 0;
+    let insertedRowCount = 0;
     
     for (const filename in batchConfig) {
       const batch = batchConfig[filename];
@@ -130,7 +131,9 @@ async function main() {
       const sql = fs.readFileSync(filePath, 'utf8');
 
       try {
-        await client.query(sql);
+        const response = await client.query(sql);
+        insertedRowCount += response?.rowCount || 0;
+
         // Update status to done
         batchConfig[filename].status = 'done';
         // Move to done folder
@@ -158,10 +161,10 @@ async function main() {
     };
     
     console.log('🎉 All batch files processed.');
-    console.log(`📊 Summary: ✅ ${processedCount} processed, ❌ ${failedCount} failed`);
+    console.log(`📊 Summary: ✅ ${processedCount} files processed, ❌ ${failedCount} failed, ${insertedRowCount} new data added, ${skippedCount} skipped`);
     
     // Ask user if they want to send notification
-    if (processedCount > 0) {
+    if (insertedRowCount > 0) {
       const shouldNotify = await askUserForNotification();
       
       if (shouldNotify) {
