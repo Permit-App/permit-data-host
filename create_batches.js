@@ -1,7 +1,8 @@
 const fs = require("fs");
 const path = require("path");
+const { CLEANED_JSON_FILE, BATCH_CONFIG_FILE } = require("./constants");
 
-const config_file_path = path.join(__dirname, 'batch_configuration.json');
+const config_file_path = path.join(__dirname, BATCH_CONFIG_FILE);
 const batch_directory_path = path.join(__dirname, 'batches');
 
 function chunkArray(arr, size) {
@@ -61,6 +62,7 @@ function generateSql(data){
     "contractor_address",
     "contractor_phone",
     "permit_type",
+    "data_hash"
   ];
 
     const values = data.map((d) => {
@@ -100,11 +102,17 @@ function generateSql(data){
           ][i]))
           .join(", ");
 
-        return `(${row})`;
+        // Calculate data hash for the row
+        const crypto = require("crypto");
+        const hash = crypto.createHash("sha256");
+        hash.update(row);
+        const dataHash = hash.digest("hex");
+
+        return `(${row},'${dataHash}')`;
       })
       .join(",\n");
 
-    const sql = `INSERT INTO ${table} (${columns.join(", ")}) VALUES\n${values};`;
+    const sql = `INSERT INTO ${table} (${columns.join(", ")}) VALUES\n${values} on conflict do nothing;`;
 
     return sql
 }
@@ -172,9 +180,9 @@ function createBatchedSQLFiles(data, batchSize = 100, batchConfig) {
   };
 }
 
-const permits = require('./latest_cleaned.json');
+const permits = require(path.join(__dirname, CLEANED_JSON_FILE));
 const batchConfig = getBatchConfig();
 
 console.log(`📊 Total permits to process: ${permits.length}`);
-const result = createBatchedSQLFiles(permits, 50, batchConfig);
+const result = createBatchedSQLFiles(permits, BATCH_SIZE, batchConfig);
 console.log(`✅ Created ${result.writtenFiles.length} new batch file(s) and 🔄 updated ${result.updated.length} existing batch file(s).`);

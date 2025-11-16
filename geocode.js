@@ -4,10 +4,11 @@ const path = require("path");
 const { Storage } = require("@google-cloud/storage");
 const { readJsonFile, writeJsonFile } = require('./utils');
 const { execSync } = require('child_process');
+const { CLEANED_JSON_FILE } = require('./constants');
 const {
   GCS_BUCKET,
-  INCOMING_FOLDER = "incoming",
-  ENCODED_FOLDER = "encoded",
+  INCOMING_FOLDER,
+  ENCODED_FOLDER,
   GOOGLE_MAPS_API_KEY,
 } = process.env;
 
@@ -118,13 +119,13 @@ async function main() {
   }
 
   // Write updated latest_cleaned.json back to GitHub
-  writeJsonFile(path.join(__dirname, 'latest_cleaned.json'), latestCleaned);
+  writeJsonFile(path.join(__dirname, CLEANED_JSON_FILE), latestCleaned);
 
   // Add latest_cleaned.json to staging and commit
   execSync('git add latest_cleaned.json', { stdio: 'inherit' });
-  const commitMessage = `Update latest_cleaned.json with ${incomingFiles.length} new files processed ${new Date().toISOString()}`;
+  const commitMessage = `Update ${CLEANED_JSON_FILE} with ${incomingFiles.length} new files processed ${new Date().toISOString()}`;
   execSync(`git commit -m "${commitMessage}"`, { stdio: 'inherit' });
-  execSync('git push origin pipeline', { stdio: 'inherit' });
+  execSync('git push origin main', { stdio: 'inherit' });
 
   return true
   
