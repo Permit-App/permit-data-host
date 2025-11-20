@@ -93,6 +93,9 @@ async function main() {
     console.log('🔌 Connecting to database...');
     const client = new Client({
       connectionString: process.env.DATABASE_URL,
+      ssl: {
+        rejectUnauthorized: false
+      }
     });
     await client.connect();
     console.log('✅ Connected to database successfully');
