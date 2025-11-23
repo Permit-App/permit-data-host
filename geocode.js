@@ -124,7 +124,7 @@ async function main() {
   execSync('git add latest_cleaned.json', { stdio: 'inherit' });
   const commitMessage = `Update latest_cleaned.json with ${incomingFiles.length} new files processed ${new Date().toISOString()}`;
   execSync(`git commit -m "${commitMessage}"`, { stdio: 'inherit' });
-  execSync('git push origin pipeline', { stdio: 'inherit' });
+  execSync('git push origin main', { stdio: 'inherit' });
 
   return true
   
