@@ -28,6 +28,13 @@ function formatValue(v, key) {
     v = v.replace("T", " ").replace("Z", "+00");
   }
 
+  if (key === "Contract Amount") {
+    // Remove $ and commas, then parse as float
+    const num = parseFloat(v.replace(/\$/g, "").replace(/,/g, ""));
+    if (isNaN(num)) return "NULL";
+    return num;
+  }
+
   if (v === null || v === undefined || (typeof v === "string" && v === "")) return "NULL";
 
   // Escape single quotes for SQL
