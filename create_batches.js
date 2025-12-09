@@ -28,6 +28,13 @@ function formatValue(v, key) {
     v = v.replace("T", " ").replace("Z", "+00");
   }
 
+  if (key === "Contract Amount") {
+    // Remove $ and commas, then parse as float
+    const num = parseFloat(v.replace(/\$/g, "").replace(/,/g, ""));
+    if (isNaN(num)) return "NULL";
+    return num;
+  }
+
   if (v === null || v === undefined || (typeof v === "string" && v === "")) return "NULL";
 
   // Escape single quotes for SQL
@@ -61,6 +68,9 @@ function generateSql(data){
     "contractor_address",
     "contractor_phone",
     "permit_type",
+    "owner_name",
+    "owner_phone",
+    "data_hash"
   ];
 
     const values = data.map((d) => {
@@ -79,6 +89,8 @@ function generateSql(data){
           d["Contractor Address"],
           d["Contractor Phone"],
           d.Type,
+          d["Owner Name"],
+          d["Owner Phone"]
         ];
 
         const row = rowFields
@@ -97,14 +109,23 @@ function generateSql(data){
             "Contractor Address",
             "Contractor Phone",
             "Type",
+            "Owner Name",
+            "Owner Phone"
           ][i]))
           .join(", ");
 
-        return `(${row})`;
+           // Calculate data hash for the row
+
+        const crypto = require("crypto");
+        const hash = crypto.createHash("sha256");
+        hash.update(row);
+        const dataHash = hash.digest("hex");
+
+        return `(${row}, '${dataHash}')`;
       })
       .join(",\n");
 
-    const sql = `INSERT INTO ${table} (${columns.join(", ")}) VALUES\n${values};`;
+    const sql = `INSERT INTO ${table} (${columns.join(", ")}) VALUES\n${values} on conflict do nothing;`;
 
     return sql
 }
